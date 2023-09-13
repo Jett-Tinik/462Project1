@@ -1,0 +1,11 @@
+                          Elliptical Orbit Data
+
+                          Mstar =      4.000 Msun
+                          a     =      5.000 AU
+                          P     =      5.590 yr
+                          e     =      6.000
+
+
+        t (yr)            r (AU)            theta (deg)            x (AU)            y (AU)
+        ------            ------            -----------            ------            ------
+         0.000           -25.000                  0.000           -25.000            -0.000
